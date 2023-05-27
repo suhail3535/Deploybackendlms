@@ -321,15 +321,7 @@
         }
     ],
     "schedule": [
-        {
-            "title": "scrum",
-            "author": "bicky statrted",
-            "category": "Dsa",
-            "type": "live",
-            "instructure": "Bicky",
-            "optional": "no",
-            "id": 1
-        }
+   
     ],
     "assignment": [
     {
