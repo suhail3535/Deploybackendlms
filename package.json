@@ -1,0 +1,29 @@
+{
+  "name": "deploybackendlms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhail3535/Deploybackendlms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhail3535/Deploybackendlms/issues"
+  },
+  "homepage": "https://github.com/suhail3535/Deploybackendlms#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
