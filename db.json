@@ -811,5 +811,171 @@
             "description": "i missed becuse of laptop shutdown",
             "id": 3
         }
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
+            "name": "Tata Punch",
+            "brand": "Tata",
+            "year": "2010",
+            "type": "Manual",
+            "price": "120000",
+            "address": "lucknow uttar pradesh"
+        },
+        {
+            "name": "Mahindra SUV",
+            "image": "https://media.istockphoto.com/id/147461270/photo/hot-sports-car.webp?b=1&s=170667a&w=0&k=20&c=JZwhgxRhdUcBbugJOBSFCaIwUTYaCT_hnrJZHM-j9EM=",
+            "brand": "Mahindra",
+            "year": "2022",
+            "type": "Semi-AutoMatic",
+            "price": "200000",
+            "address": "Nashik Maharastra",
+            "id": 2
+        },
+        {
+            "name": "Swift Dezire",
+            "image": "https://static.autox.com/uploads/2021/02/Maruti-Suzuki-Swift-Image-4-.jpg",
+            "brand": "Suzuki",
+            "year": "2021",
+            "type": "Manual",
+            "price": "200000",
+            "address": "Lucknow Uttar Pradesh India",
+            "id": 3
+        },
+        {
+            "name": "Suzuki Sports Car",
+            "image": "https://wallpaperaccess.com/full/3415971.jpg",
+            "brand": "Suzuki",
+            "year": "2023",
+            "type": "AutoMatic",
+            "price": "1200000",
+            "address": "Mumbai Maharastra India",
+            "id": 4
+        },
+        {
+            "id": 5,
+            "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
+            "name": "Tata Punch",
+            "brand": "Tata",
+            "year": "2010",
+            "type": "Manual",
+            "price": "120000",
+            "address": "lucknow uttar pradesh"
+        },
+        {
+            "name": "Mahindra SUV",
+            "image": "https://media.istockphoto.com/id/147461270/photo/hot-sports-car.webp?b=1&s=170667a&w=0&k=20&c=JZwhgxRhdUcBbugJOBSFCaIwUTYaCT_hnrJZHM-j9EM=",
+            "brand": "Mahindra",
+            "year": "2022",
+            "type": "Semi-AutoMatic",
+            "price": "200000",
+            "address": "Nashik Maharastra",
+            "id": 6
+        },
+        {
+            "name": "Swift Dezire",
+            "image": "https://static.autox.com/uploads/2021/02/Maruti-Suzuki-Swift-Image-4-.jpg",
+            "brand": "Suzuki",
+            "year": "2021",
+            "type": "Manual",
+            "price": "200000",
+            "address": "Lucknow Uttar Pradesh India",
+            "id": 7
+        },
+        {
+            "name": "Suzuki Sports Car",
+            "image": "https://wallpaperaccess.com/full/3415971.jpg",
+            "brand": "Suzuki",
+            "year": "2023",
+            "type": "AutoMatic",
+            "price": "1200000",
+            "address": "Mumbai Maharastra India",
+            "id": 8
+        },
+        {
+            "name": "Tata Punch",
+            "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/39015/punch-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75",
+            "brand": "Tata",
+            "year": "2023",
+            "type": "Semi-AutoMatic",
+            "price": "400000",
+            "address": "Pune Maharastra",
+            "id": 9
+        },
+        {
+            "name": "Tata Altroz",
+            "image": "https://www.talkingtrendo.com/wp-content/uploads/2020/09/20200427060229_Tata-Altroz-1.jpg",
+            "brand": "Tata",
+            "year": "2023",
+            "type": "AutoMatic",
+            "price": "500000",
+            "address": "Delhi India",
+            "id": 10
+        },
+        {
+            "name": "Mahindra THar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg/1200px-Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg",
+            "brand": "Mahindra",
+            "year": "2022",
+            "type": "Semi-AutoMatic",
+            "price": "45555555",
+            "address": "Pune Maharastra India",
+            "id": 11
+        },
+        {
+            "name": "swift",
+            "image": "https://wallpaperaccess.com/full/3415971.jpg",
+            "brand": "Suzuki",
+            "year": "2012",
+            "type": "Manual",
+            "price": "9875",
+            "address": "ghffdhgdgdgh",
+            "id": 13
+        }
+    ],
+    "contacts": [
+        {
+            "name": "suhail khan",
+            "mobile": "9598125005",
+            "email": "suhail.khan@vastuhfc.com",
+            "query": "hello suhail i have a query",
+            "id": 1
+        },
+        {
+            "name": "suhail",
+            "mobile": "9598125005",
+            "email": "suhail.khan@vastuhfc.com",
+            "query": "hello world",
+            "id": 2
+        },
+        {
+            "name": "suhail",
+            "mobile": "2557838733",
+            "email": "simran@gmail.com",
+            "query": "24536533768",
+            "id": 3
+        },
+        {
+            "name": "suhail khan",
+            "mobile": "9598125005",
+            "email": "niraj@gmail.com",
+            "query": "hello suhail i have some query",
+            "id": 4
+        },
+        {
+            "name": "suhail",
+            "mobile": "8630245788",
+            "email": "niraj@gmail.com",
+            "query": "can we connect ",
+            "id": 5
+        },
+        {
+            "name": "Uzair Ansari",
+            "mobile": "9898989800",
+            "email": "niraj@gmail.com",
+            "query": "jhgjdfghj",
+            "id": 6
+        }
     ]
 }
